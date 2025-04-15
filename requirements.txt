@@ -1,0 +1,6 @@
+pydub
+langcodes
+language_data
+google-api-python-client
+google-auth-oauthlib
+google-auth-httplib2
