@@ -21,7 +21,7 @@ A powerful Python tool for processing videos with multiple audio tracks and uplo
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/mokoshalb/YouTubeMultiAudioVideoProcessor.git
+git clone https://github.com/OkoyaUsman/YouTubeMultiAudioVideoProcessor.git
 cd youtube-multi-audio-processor
 ```
 
